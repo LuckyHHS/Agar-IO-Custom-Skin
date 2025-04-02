@@ -2,6 +2,8 @@
 
 Download a 512x512 image, not necessary but ok. Login to AgarIO PC, and login to your account. Open up the skin editor and press F12, go to console and paste this.
 
+** IF IT DOESNT SAVE, IMPORT TO PHOOTOPEA AND USE MOSIAC TO SET PIXEL SIZE TO 3 **
+
 ```
 // ==UserScript==
 // @name         New Userscript
